@@ -1,5 +1,6 @@
 This repository is for our JSTARS paper (2020) "Semi-MCNN: A semisupervised multi-CNN ensemble learning method for urban land cover classification using submeter HRRS images". Please refer to https://ieeexplore.ieee.org/abstract/document/9177262 .
 
+-----------------------------------------------------------------------------------
 Dataset:
 
 AID dataset: https://captain-whu.github.io/AID/
@@ -7,7 +8,7 @@ AID dataset: https://captain-whu.github.io/AID/
 NWPU-RESISC45 dataset: https://figshare.com/articles/dataset/NWPU-RESISC45/19166525
 
 Shenzhen LC (Ours): ShenzhenLC56.zip
-
+-----------------------------------------------------------------------------------
 
 If it is helpful for you, please cite the following references.
 
