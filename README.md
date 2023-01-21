@@ -7,7 +7,7 @@ If it is helpful for you, please cite the following references.
 
     @ARTICLE{RunyuFan,
 
-      author={Fan, Runyu and Li, Jun and Li, Fengpeng and Han, Wei and Wang, Lizhe},
+      author={Fan, Runyu and Feng, Ruyi and Wang, Lizhe and Yan, Jining and Zhang, Xiaohan},
   
       journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   
