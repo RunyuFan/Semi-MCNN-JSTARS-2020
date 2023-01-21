@@ -1,9 +1,5 @@
 # Semi-MCNN
-Code for our JSTARS paper "Semi-MCNN: A semisupervised multi-CNN ensemble learning method for urban land cover classification using submeter HRRS images"
-
-# FusionMixer (TGRS-2022)
-
-This repository is for our TGRS paper (2022): "for our JSTARS paper "Semi-MCNN: A semisupervised multi-CNN ensemble learning method for urban land cover classification using submeter HRRS images". Please refer to https://ieeexplore.ieee.org/abstract/document/9177262 .
+This repository is for our JSTARS paper (2020) "Semi-MCNN: A semisupervised multi-CNN ensemble learning method for urban land cover classification using submeter HRRS images". Please refer to https://ieeexplore.ieee.org/abstract/document/9177262 .
 
 
 If it is helpful for you, please cite the following references.
